@@ -3,11 +3,11 @@ title: My Awesome Site
 description: > # Use ">" to break the line
   This is my awesome site where I blog about tech.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # The base hostname & protocol for your site
+url: "https://hitz-zentroa.github.io/shared-task-critical-questions-generation" # The base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 
 # Custom settings
 author:
