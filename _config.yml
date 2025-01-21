@@ -1,31 +1,3 @@
-# Site settings
-title: My Awesome Site
-description: > # Use ">" to break the line
-  This is my awesome site where I blog about tech.
-baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://hitz-zentroa.github.io/shared-task-critical-questions-generation" # The base hostname & protocol for your site
-
-# Build settings
-markdown: kramdown
 theme: jekyll-theme-minimal
-
-# Custom settings
-author:
-  name: Blanca Calvo
-  email: your-email@example.com
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Exclusions
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-
-# Social media links
-social:
-  twitter: your_twitter_handle
-  github: your_github_username
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
