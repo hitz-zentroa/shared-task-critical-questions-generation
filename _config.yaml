@@ -1,3 +1,5 @@
+theme: Tactile
+
 # Where things are
 source              : .
 destination         : ./_site
