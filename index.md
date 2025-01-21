@@ -25,11 +25,17 @@ To this goal, the participant will be asked to develop a system that gets one of
 
 <img style="width:70%" src="assets/img/examples.png" alt="example" title="example" align="center">
 
+TODO: mention CONLL paper
+
 #### How will participants be evaluated?
 
 Each output containing 3 questions will be given a score between 0 and 1 depending on the usefulness of the critical questions. 
 
-Useful critical questions (CQs) will be given 0.33 points, Unhelpful CQs will be given 0.1 points, and Invalid ones will have 0 points. The definitions of these categories are described in Section 3.
+Useful critical questions (CQs) will be given 0.33 points, Unhelpful CQs will be given 0.1 points, and Invalid ones will have 0 points. The definitions of these categories are:
+
+- Useful (USE): The answer to this question can potentially challenge one of the arguments in the text.
+- Unhelpful (UN): The question is valid, but it is unlikely to challenge any of the arguments in the text.
+- Invalid (IN): This question is invalid because it can't be used to challenge any of the arguments in the text. Either because (1) its reasoning is not right, (2) the question is not related to the text, (3) it introduces new concepts not present in the intervention, (4) it is too general and could be applied to any text, or (5) it is not critical with any argument of the text (e.g. a reading-comprehension question). 
 
 TODO: script for evaluation
 
