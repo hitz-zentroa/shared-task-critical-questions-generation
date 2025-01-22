@@ -1,6 +1,6 @@
 ## Critical Questions Generation Shared Task
 
-<img style="width:45%" src="assets/img/todo_create_logo.png" alt="CQs-Gen" title="CQs-Gen logo" align="right">
+<img style="width:45%" src="assets/img/lupa.png" alt="CQs-Gen" title="CQs-Gen logo" align="right">
 
 Welcome to the official website of the Critical Questions Generation shared task, hosted in [The 12th Workshop on Argument Mining](https://argmining-org.github.io/2025/), and co-located in [ACL 2025](https://2025.aclweb.org/), Vienna (Austria)!
 
@@ -20,7 +20,7 @@ The participant will be asked to develop a system that gets one of the intervent
 
 See two output examples and their punctuation:
 
-<img style="width:100%" src="assets/img/lupa.png" alt="example" title="example" align="center">
+<img style="width:100%" src="assets/img/example.png" alt="example" title="example" align="center">
 
 For more information on Critical Questions Generation, please read [Critical Questions Generation: Motivation and Challenges](https://aclanthology.org/2024.conll-1.9/).
 
