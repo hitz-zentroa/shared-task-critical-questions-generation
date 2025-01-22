@@ -20,7 +20,7 @@ The participant will be asked to develop a system that gets one of the intervent
 
 See two output examples and their punctuation:
 
-<img style="width:100%" src="assets/img/example.png" alt="example" title="example" align="center">
+<img style="width:100%" src="assets/img/examples.png" alt="example" title="example" align="center">
 
 For more information on Critical Questions Generation, please read [Critical Questions Generation: Motivation and Challenges](https://aclanthology.org/2024.conll-1.9/).
 
