@@ -32,9 +32,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
-  background-image: url("assets/img/background.png");
-  background-size: 100% auto;
-
 }
 
 #skip-to-content {
@@ -112,7 +109,8 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: url("assets/img/background.png");
+  background-size: 100% auto;
 
   @include large {
     padding: 5rem 6rem;
