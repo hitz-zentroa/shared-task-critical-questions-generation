@@ -1,10 +1,9 @@
-## Critical Questions Generation
 
-### Welcome to 12th Workshop on Argument Mining (ACL 2025) Shared Task -- Critical Questions Generation
+### Welcome to the Critical Questions Generation Shared Task
 
 <img style="width:45%" src="assets/img/todo_create_logo.png" alt="CQs-Gen" title="CQs-Gen logo" align="right">
 
-Welcome to the official website of the Critical Questions Generation shared task, hosted in [12th Workshop on Argument Mining](https://argmining-org.github.io/2025/), co-located in ACL 2015, Vienna (Austria)!
+This is the official website of the Critical Questions Generation shared task, hosted in the [12th Workshop on Argument Mining](https://argmining-org.github.io/2025/), and co-located in [ACL 2015](https://2025.aclweb.org/), Vienna (Austria)!
 
 In recent years, a growing concern within the educational community has been that the widespread use of LLM-based chats could foster superficial learning habits and weaken students' critical thinking skills. To counter this trend, in this task, we propose using LLMs to guide users towards asking critical questions. That is, questions that can uncover fallacious or poorly constructed arguments. In short: we want to foster critical thinking by developing a system that generates insightful critical questions when given.
 
