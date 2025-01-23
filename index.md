@@ -7,7 +7,7 @@ In recent years, a growing concern within the educational community has been whe
 In the same line, Natural Language Processing applications to deal with misinformation are a popular line of research. However, most applications face challenges regarding three issues: LLMs often lack the required up-to-date knowledge for these tasks, there is not always an agreement on what is the truth, and LLMs themselves can produce hallucinations or rely on unfaithful data, generating misinformation of their own making. **Yet, instead of requiring the LLMs to output factual knowledge, could we use them to point at the missing or potentially uninformed claims?**
 
 
-<img style="width:45%" src="assets/img/lupa.png" alt="CQs-Gen" title="CQs-Gen logo" align="left">
+<img style="width:45%" src="assets/img/lupa.png" alt="CQs-Gen" title="CQs-Gen logo" align="right">
 
 #### What is the task of Critical Questions Generation?
 
