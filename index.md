@@ -1,6 +1,6 @@
 ## Critical Questions Generation Shared Task
 
-<img style="width:45%" src="assets/img/lupa.png" alt="CQs-Gen" title="CQs-Gen logo" align="right">
+<img style="width:45%" src="assets/img/lupa.jpeg" alt="CQs-Gen" title="CQs-Gen logo" align="right">
 
 Welcome to the official website of the Critical Questions Generation shared task, hosted in [The 12th Workshop on Argument Mining](https://argmining-org.github.io/2025/), and co-located in [ACL 2025](https://2025.aclweb.org/) in Vienna, Austria!
 
