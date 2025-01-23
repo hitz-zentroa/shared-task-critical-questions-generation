@@ -71,7 +71,7 @@ This information is subject to change.
 - Paper submission due: To be announced
 - Notification to authors: To be announced
 - Camera ready due: To be announced
-- Workshop: 31th July (co-located with ACL 2025)
+- Workshop: 31st July (co-located with ACL 2025)
 
 
 #### Organizers of the shared task
