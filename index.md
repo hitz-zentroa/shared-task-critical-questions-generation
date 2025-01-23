@@ -19,10 +19,6 @@ In the dataset, the argumentative texts are interventions of real debates, which
 
 The participant will be asked to develop a system that gets one of the interventions as input, and outputs exactly 3 critical questions. The 3 critical questions should all be useful for challenging the arguments in the intervention. Each of this 3 critical questions will be evaluated separately and then the punctuation will be aggregated. 
 
-See two output examples and their punctuation:
-
-<img style="width:100%" src="assets/img/examples.png" alt="example" title="example" align="center">
-
 For more information on Critical Questions Generation, please read [Critical Questions Generation: Motivation and Challenges](https://aclanthology.org/2024.conll-1.9/).
 
 #### How will participants be evaluated?
@@ -33,7 +29,11 @@ Useful critical questions (CQs) will be given 0.33 points, Unhelpful CQs will be
 
 - **Useful (USE)**: The answer to this question can potentially challenge one of the arguments in the text.
 - **Unhelpful (UN)**: The question is valid, but it is unlikely to challenge any of the arguments in the text.
-- **Invalid (IN)**: This question is invalid because it can't be used to challenge any of the arguments in the text. Either because (1) its reasoning is not right, (2) the question is not related to the text, (3) it introduces new concepts not present in the intervention, (4) it is too general and could be applied to any text, or (5) it is not critical with any argument of the text (e.g. a reading-comprehension question). 
+- **Invalid (IN)**: This question is invalid because it can't be used to challenge any of the arguments in the text. Either because (1) its reasoning is not right, (2) the question is not related to the text, (3) it introduces new concepts not present in the intervention, (4) it is too general and could be applied to any text, or (5) it is not critical with any argument of the text (e.g. a reading-comprehension question).
+
+See two output examples and their punctuation:
+
+<img style="width:100%" src="assets/img/examples.png" alt="example" title="example" align="center">
 
 TODO: upload evaluation script
 
