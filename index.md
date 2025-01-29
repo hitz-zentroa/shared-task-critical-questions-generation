@@ -66,10 +66,10 @@ TODO: release of a simple baseline system and output example
 This information is subject to change.
 - Sample data available: To be announced
 - Validation data ready: 21st February
-- Evaluation start: 7th March
+- Evaluation start: 28th March
 - Evaluation end: 4th April
 - Paper submission due: 25th April
-- Notification to authors: 2rd May
+- Notification to authors: 2nd May
 - Camera ready due: 9th May
 - Workshop: 31st July (co-located with ACL 2025)
 
