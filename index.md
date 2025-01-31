@@ -35,11 +35,17 @@ See two output examples and their punctuation:
 
 <img style="width:100%" src="assets/img/examples.png" alt="example" title="example" align="center">
 
-TODO: upload evaluation script
+Each question will be evaluated in regards to the reference questions. That is, we will match the question with one of the references using semantic similarity and give the questions this label. If no reference question is similar (all have less than 0.6 similarity), we will review these questions manually. 
 
 #### Participant info
 
-TODO: explain how to sign for the task and how to submit
+Each team will be allowed 3 submissions. Which will be submitted in Codalab. 
+
+The submissions should match the following format:
+
+FORMAT
+
+TODO: release of a simple baseline system and output example
 
 #### Data
 
@@ -57,9 +63,6 @@ Do note that release dates are subject to change.
 <!-- 
 ### add as: <a href="slkdfjaldsf.zip" download>download</a> (v1)
 -->
-
-TODO: release of a simple baseline system and output example
-
 
 #### Important dates
 
@@ -87,4 +90,4 @@ University of Côte d’Azur and member of the Inria-I3S research team Wimmics
 
 #### Do you have other questions?
 
-TODO: indicate communication channels and potentially create a FAQS website
+Slack channel. 
