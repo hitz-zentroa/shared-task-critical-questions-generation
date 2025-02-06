@@ -35,17 +35,42 @@ See two output examples and their punctuation:
 
 <img style="width:100%" src="assets/img/examples.png" alt="example" title="example" align="center">
 
-Each question will be evaluated in regards to the reference questions. That is, we will match the question with one of the references using semantic similarity and give the questions this label. If no reference question is similar (all have less than 0.6 similarity), we will review these questions manually. 
+Each question will be evaluated in regards to the reference questions. That is, we will match the question with one of the references using semantic similarity and give the questions this label. 
+
+You can find the evaluation script [here](https://github.com/hitz-zentroa/shared-task-critical-questions-generation/tree/main/shared_task/eval_scripts)
 
 #### Participant info
 
-Each team will be allowed 3 submissions. Which will be submitted in Codalab. 
+In order to participate, please fill this Form (one time per team).
+
+Each team will be allowed 3 submissions, which will all submitted through this Form. 
 
 The submissions should match the following format:
 
-FORMAT
+{
+    "CLINTON_1_1": {
+        "intervention_id": "CLINTON_1_1",
+        "intervention": "CLINTON: \"The central question in this election is really what kind of country we want to be and what kind of future we 'll build together\nToday is my granddaughter 's second birthday\nI think about this a lot\nwe have to build an economy that works for everyone , not just those at the top\nwe need new jobs , good jobs , with rising incomes\nI want us to invest in you\nI want us to invest in your future\njobs in infrastructure , in advanced manufacturing , innovation and technology , clean , renewable energy , and small business\nmost of the new jobs will come from small business\nWe also have to make the economy fairer\nThat starts with raising the national minimum wage and also guarantee , finally , equal pay for women 's work\nI also want to see more companies do profit-sharing\"",
+        "dataset": "US2016",
+        "cqs": [
+            {
+                "id": 0,
+                "cq": "What does the author mean by \"build an economy that works for everyone, not just those at the top\"?"
+            },
+            {
+                "id": 1,
+                "cq": "What is the author's definition of \"new jobs\" and \"good jobs\"?"
+            },
+            {
+                "id": 2,
+                "cq": "How will the author's plan to \"make the economy fairer\" benefit the working class?"
+            }
+        ]
+    },
+...
+}
 
-TODO: release of a simple baseline system and output example
+You can find an example of a system and the generated output in [here](https://github.com/hitz-zentroa/shared-task-critical-questions-generation/tree/main/shared_task/trial_submission). 
 
 #### Data
 
@@ -54,7 +79,7 @@ Do note that release dates are subject to change.
 
 | Dataset split | Access |
 |---|---|
-| **Sample set** | To be published |
+| **Sample set** | <a href="https://github.com/hitz-zentroa/shared-task-critical-questions-generation/blob/main/shared_task/data_splits/sample.json" download>download</a> (v1) |
 | **Validation set** | To be published |
 | **Unlabeled train set** | To be published |
 | **Unlabeled test set** | To be published |
@@ -67,7 +92,7 @@ Do note that release dates are subject to change.
 #### Important dates
 
 This information is subject to change.
-- Sample data available: To be announced
+- Sample data available: 17th February
 - Validation data ready: 21st February
 - Evaluation start: 28th March
 - Evaluation end: 4th April
