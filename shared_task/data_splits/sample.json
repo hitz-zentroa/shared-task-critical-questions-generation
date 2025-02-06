@@ -1,0 +1,702 @@
+{
+    "CLINTON_1_1": {
+        "intervention_id": "CLINTON_1_1",
+        "intervention": "CLINTON: \"The central question in this election is really what kind of country we want to be and what kind of future we 'll build together\nToday is my granddaughter 's second birthday\nI think about this a lot\nwe have to build an economy that works for everyone , not just those at the top\nwe need new jobs , good jobs , with rising incomes\nI want us to invest in you\nI want us to invest in your future\njobs in infrastructure , in advanced manufacturing , innovation and technology , clean , renewable energy , and small business\nmost of the new jobs will come from small business\nWe also have to make the economy fairer\nThat starts with raising the national minimum wage and also guarantee , finally , equal pay for women 's work\nI also want to see more companies do profit-sharing\"",
+        "dataset": "US2016",
+        "cqs": [
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_9_S",
+                "cq": "How would you address potential criticisms and counterarguments to these policies, and what would be your response to opposing views and interests?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_T__7",
+                "cq": "Are there other relevant goals that conflict with investing in you?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_4_L",
+                "cq": "What is the proposed plan for making the economy fairer, beyond raising the national minimum wage and guaranteeing equal pay for women's work?",
+                "label": "Useful"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_0_S",
+                "cq": "What specific policies would you implement to achieve an economy that works for everyone, and how would you ensure their effectiveness?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_T__1",
+                "cq": "Could Clinton investing in you have consequences that we should take into account? Is it practically possible?",
+                "label": "Useful"
+            },
+            {
+                "id": "CLINTON_1_1_T__4",
+                "cq": "Could creating jobs in infrastructure, in advanced manufacturing, innovation and technology, clean, renewable energy, and small businesses have consequences that we should take into account? Is it practically possible?",
+                "label": "Useful"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_6_L",
+                "cq": "What is the evidence that profit-sharing would lead to a more equitable economy, and how would it benefit workers?",
+                "label": "Useful"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_5_L",
+                "cq": "What mechanisms does Clinton propose to hold companies accountable for profit-sharing?",
+                "label": "Useful"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_0_L",
+                "cq": "What specific policies would you implement to build an economy that works for everyone, and how would you ensure their effectiveness?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_2_S",
+                "cq": "What is the evidence that raising the national minimum wage and guaranteeing equal pay for women's work would lead to a fairer economy, and how would you address potential unintended consequences of these policies?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_1_L",
+                "cq": "How would you create new jobs, and what is the evidence that investing in infrastructure, advanced manufacturing, innovation, technology, clean energy, and small business would lead to rising incomes?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_T__8",
+                "cq": "Are there alternative actions to creating jobs in infrastructure, in advanced manufacturing, innovation and technology, clean, renewable energy, and small businesses to achieve investing in you? If so, which is the most efficient action?",
+                "label": "Useful"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_5_S",
+                "cq": "How would you address the potential impact of automation and artificial intelligence on job creation and the economy, and what steps would you take to ensure that the benefits of technological progress are shared fairly?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_3_S",
+                "cq": "How would you define and measure \"good jobs\" with \"rising incomes\", and what would be the benchmarks for success in achieving these goals?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_8_L",
+                "cq": "What is the proposed plan for addressing income inequality, and how would you ensure that the benefits of economic growth are shared by all?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_T__2",
+                "cq": "Could creating new jobs, and good jobs, with rising incomes have consequences that we should take into account? Is it practically possible?",
+                "label": "Useful"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_9_L",
+                "cq": "How would you measure the success of your economic policies, and what metrics would you use to evaluate their effectiveness?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_6_S",
+                "cq": "What would be the timeline for implementing these policies, and how would you prioritize and sequence them to achieve the desired outcomes?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_T__0",
+                "cq": "Are there other relevant goals that conflict with making the economy fairer?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "CLINTON_1_1_T__5",
+                "cq": "Are there other relevant goals that conflict with building an economy that works for everyone?",
+                "label": "Useful"
+            },
+            {
+                "id": "CLINTON_1_1_T__3",
+                "cq": "Are there alternative actions to Clinton investing in you to achieve new jobs, good jobs, with rising incomes? If so, which is the most efficient action?",
+                "label": "Useful"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_4_S",
+                "cq": "What is the role of government in promoting profit-sharing in companies, and how would you balance the need for economic fairness with the need to encourage business growth and competitiveness?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_8_S",
+                "cq": "What would be the metrics for evaluating the success of these policies, and how would you hold yourself and your administration accountable for achieving the desired outcomes?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_T__11",
+                "cq": "Could raising the national minimum wage and guaranteeing equal pay for women's work have consequences that we should take into account? Is it practically possible?",
+                "label": "Useful"
+            },
+            {
+                "id": "CLINTON_1_1_T__10",
+                "cq": "Are there other relevant goals that conflict with new jobs, good jobs, and rising incomes?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "CLINTON_1_1_T__6",
+                "cq": "Are there alternative actions to creating new jobs, good jobs, with rising incomes to achieve building an economy that works for everyone? If so, which is the most efficient action?",
+                "label": "Useful"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_3_L",
+                "cq": "How would you ensure that small businesses, which you claim will create most new jobs, have access to the necessary resources and support to thrive?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_1_S",
+                "cq": "How would you fund the investments in infrastructure, advanced manufacturing, innovation and technology, clean and renewable energy, and small business, and what would be the expected returns on these investments?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_2_L",
+                "cq": "What is the proposed plan for investing in individuals, and how would you measure the return on investment?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_7_L",
+                "cq": "How would you balance the need for economic growth with the need for environmental sustainability, particularly in industries like clean energy?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_7_S",
+                "cq": "How would you engage with and involve stakeholders, including businesses, workers, and communities, in the development and implementation of these policies?",
+                "label": "Invalid"
+            },
+            {
+                "id": "CLINTON_1_1_T__9",
+                "cq": "Are there alternative actions to raising the national minimum wage and guaranteeing equal pay for women's work to achieve making the economy fairer? If so, which is the most efficient action?",
+                "label": "Useful"
+            }
+        ]
+    },
+    "Javier_84": {
+        "intervention_id": "Javier_84",
+        "intervention": "Javier: \"I have no problem requiring the airlines to give notification of any \"known\" delays within 30 minutes of when they become aware of it.\nBUT, being a frequent traveler, I see all sorts of problems which are unavoidable and for which the airlines will be blamed by giving such notice with the intend that some flyers may be able to delay thier trip to the airport or even the departure gate.\nI know that many times the airlines can't also know exactly when a weather hold or a maintenance issue will be rectified and that the flight is then ready to go.\nMany time it can be surprisingly faster than expected.\nThe problem is that some flyers may then  wait before going to the airport,\nbut then find that the problem was rectified sooner than expected and the flight departed.\nOf course the flyer and the flyers rights organization will then crucify the airlines for such poor planning.\nFlyers need to grow up and quit pouting and blaming everthing on the airlines.\nThey can't have it both ways.\"",
+        "dataset": "rrd",
+        "cqs": [
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_7_L",
+                "cq": "How would requiring airlines to provide notification of delays impact their operations and customer service, and would it lead to any unintended consequences?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_0_S",
+                "cq": "Are the \"unavoidable problems\" mentioned by Javier truly unavoidable, or are they a result of poor planning or inefficiencies on the part of the airlines?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_1_L",
+                "cq": "Are there any potential consequences of requiring airlines to provide notification of delays, such as passengers waiting too long to go to the airport and missing their flight?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_6_L",
+                "cq": "Are there any potential solutions to the problem of passengers waiting too long to go to the airport based on a delay notification, such as providing more frequent updates or offering more flexible check-in and gate arrival times?",
+                "label": "Useful"
+            },
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_2_L",
+                "cq": "How often do weather holds and maintenance issues resolve more quickly than expected, and would this be a common occurrence that airlines would need to account for?",
+                "label": "Useful"
+            },
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_3_L",
+                "cq": "Would passengers who wait to go to the airport based on a delay notification and then miss their flight due to an unexpected resolution of the issue have a legitimate complaint against the airline?",
+                "label": "Useful"
+            },
+            {
+                "id": "Javier_84_T__1",
+                "cq": "Are there other relevant goals that conflict with airlines not having to deal with difficult passengers?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_5_S",
+                "cq": "Does Javier's argument rely too heavily on anecdotal evidence and personal experience, rather than objective data or evidence?",
+                "label": "Useful"
+            },
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_6_S",
+                "cq": "Are there any potential consequences or trade-offs to Javier's proposal, such as increased costs or logistical challenges for airlines, that should be considered?",
+                "label": "Useful"
+            },
+            {
+                "id": "Javier_84_T__2",
+                "cq": "Are there alternative actions to flyers having to grow up and quit pouting and blaming everything on the airlines to achieve airlines not having to deal with difficult passengers? If so, which is the most efficient action?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_4_S",
+                "cq": "Are there any alternative solutions that could address the issues Javier raises, such as providing more accurate and timely information to flyers, or implementing more efficient systems for handling delays and cancellations?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_2_S",
+                "cq": "Is it reasonable to assume that flyers would not be able to adapt to changing circumstances, such as a delay being rectified sooner than expected, and adjust their plans accordingly?",
+                "label": "Useful"
+            },
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_1_S",
+                "cq": "How would providing notification of delays within 30 minutes of becoming aware of them necessarily lead to flyers waiting before going to the airport, as Javier suggests?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_5_L",
+                "cq": "What is the definition of \"known\" delays, and how would airlines determine when a delay is certain enough to warrant notification?",
+                "label": "Useful"
+            },
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_0_L",
+                "cq": "Is it reasonable to expect airlines to notify passengers of delays within 30 minutes of becoming aware of them, considering the unpredictable nature of weather holds and maintenance issues?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_7_S",
+                "cq": "Is Javier's argument based on a flawed assumption that flyers are somehow responsible for the problems caused by airline delays, rather than recognizing that delays are often a result of factors beyond the control of individual travelers?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_3_S",
+                "cq": "Is Javier's characterization of flyers as \"pouting\" and \"blaming everything on the airlines\" a fair representation of the concerns and frustrations of travelers?",
+                "label": "Useful"
+            },
+            {
+                "id": "Javier_84_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_4_L",
+                "cq": "Is it fair to place the blame solely on passengers for being unhappy with airline delays and cancellations, or do airlines bear some responsibility for communicating effectively with passengers?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Javier_84_T__0",
+                "cq": "Could flyers having to grow up and quit pouting and blaming everything on the airlines have consequences that we should take into account? Is it practically possible?",
+                "label": "Unhelpful"
+            }
+        ]
+    },
+    "TRUMP_125_1": {
+        "intervention_id": "TRUMP_125_1",
+        "intervention": "TRUMP: \"Secretary Clinton doesn't want to use a couple of words, and that's law and order\nIf we don't have it, we're not going to have a country\nwhen I look at what's going on in Charlotte, a city I love, a city where I have investments, when I look at what's going on throughout various parts of our country, whether it's\u2014I mean, I can just keep naming them all day long\nI just got today the, as you know, the endorsement of the Fraternal Order of Police, we just\u2014just came in\nWe have endorsements from, I think, almost every police group, very\u2014I mean, a large percentage of them in the United States\nWe have a situation where we have our inner cities, African- Americans, Hispanics are living in hell\nit's so dangerous\nYou walk down the street, you get shot\nIn Chicago, they've had thousands of shootings, thousands since January 1st\nI'm saying, where is this\nIs this a war-torn country\nWhat are we doing\nwe have to stop the violence\nIn a place like Chicago, where thousands of people have been killed, thousands over the last number of years\nalmost 4,000 have been killed since Barack Obama became president\"",
+        "dataset": "US2016",
+        "cqs": [
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_5_L",
+                "cq": "How does Trump's anecdotal evidence about Charlotte and Chicago represent the experiences of all inner cities and communities of color?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_T__7",
+                "cq": "Are there any events other than inner cities being so dangerous that would more reliably account for African-Americans and Hispanics living in hell?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_5_S",
+                "cq": "How does Trump's rhetoric about \"war-torn\" cities and \"thousands of people... killed\" contribute to a productive discussion about addressing violence and crime, or does it sensationalize and politicize the issue?",
+                "label": "Invalid"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_8_S",
+                "cq": "What alternative perspectives or solutions are being ignored or marginalized in Trump's focus on \"law and order\" and his portrayal of urban violence?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_2_L",
+                "cq": "What is the basis for Trump's assertion that the country will not survive without \"law and order\"?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_6_L",
+                "cq": "What is the evidence for the claim that thousands of people have been killed in Chicago since Barack Obama became president, and how does this relate to Trump's argument about the need for \"law and order\"?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_4_S",
+                "cq": "Are the crime statistics Trump cites (e.g., \"thousands of shootings\" in Chicago) accurate, and what is the context for these statistics (e.g., are they increasing or decreasing over time)?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_6_S",
+                "cq": "What specific actions does Trump propose to \"stop the violence\" in cities like Chicago, and how do these actions address the root causes of violence and crime?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_T__16",
+                "cq": "Is Charlotte actually a typical case of other cities in our country that need law and order? How widely applicable is the generalization?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_T__23",
+                "cq": "Did the Fraternal Order of Police really assert that Trump is a good candidate?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "TRUMP_125_1_T__25",
+                "cq": "Is needing law and order consistent with known evidence in law and order?",
+                "label": "Invalid"
+            },
+            {
+                "id": "TRUMP_125_1_T__11",
+                "cq": "Is the police a genuine expert in law and order?",
+                "label": "Invalid"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_8_L",
+                "cq": "What alternative solutions or approaches does Trump propose to address the root causes of violence and poverty in inner cities, beyond simply advocating for \"law and order\"?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_T__13",
+                "cq": "Is needing law and order consistent with what other experts in law and order say?",
+                "label": "Invalid"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_7_S",
+                "cq": "How does Trump's criticism of President Obama's presidency relate to the issue of crime and violence, and is it a fair critique?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_T__22",
+                "cq": "Is \"Trump being good candidate\" consistent with known evidence in law and order?",
+                "label": "Invalid"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_0_L",
+                "cq": "What is the evidence for the claim that the inner cities are \"living in hell\" and that it's so dangerous that you get shot walking down the street?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_T__10",
+                "cq": "Is there a proven relation between 'African-Americans and Hispanics are living in hell' and 'inner cities are so dangerous'?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_T__5",
+                "cq": "Is what the police said clear? Are there technical terms used that are not explained clearly?",
+                "label": "Invalid"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_1_L",
+                "cq": "How does Trump define \"law and order\" and what specific policies would he implement to achieve it?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_T__8",
+                "cq": "Is Chicago actually a typical case of other cities where there have been thousands of shootings? How widely applicable is the generalization?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_9_S",
+                "cq": "How does Trump's language and tone contribute to a divisive or unifying national discourse on issues of crime, race, and social justice?",
+                "label": "Invalid"
+            },
+            {
+                "id": "TRUMP_125_1_T__0",
+                "cq": "Did the police really assert that they need law and order?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "TRUMP_125_1_T__19",
+                "cq": "Is needing law and order relevant to the domain of law and order?",
+                "label": "Invalid"
+            },
+            {
+                "id": "TRUMP_125_1_T__2",
+                "cq": "Is the Fraternal Order of Police's pronouncement directly quoted? If not, is a reference to the original source given? Can it be checked?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_1_S",
+                "cq": "How does Trump define \"law and order,\" and what specific policies does he propose to achieve it?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_T__3",
+                "cq": "Is what the Fraternal Order of Police said clear? Are there technical terms used that are not explained clearly?",
+                "label": "Invalid"
+            },
+            {
+                "id": "TRUMP_125_1_T__15",
+                "cq": "Are there special circumstances pertaining to Charlotte that undermine its generalisability to other cities in our country that need law and order?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_3_L",
+                "cq": "How does Trump's endorsement by the Fraternal Order of Police and other police groups support his argument about the need for \"law and order\"?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "TRUMP_125_1_T__9",
+                "cq": "Is it actually the case that in Chicago there have been thousands of shootings and it's very easy to get shot in the streets? Is there evidence for this claim?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_T__4",
+                "cq": "Is it actually the case that Charlotte needs law and order and Trump knows well? Is there evidence for this claim?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_7_L",
+                "cq": "How does Trump's rhetoric about \"war-torn\" cities and \"thousands of shootings\" contribute to a productive conversation about addressing violence and improving community safety?",
+                "label": "Invalid"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_4_L",
+                "cq": "What is the relationship between Trump's investments in Charlotte and his concern for the city's well-being?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_2_S",
+                "cq": "What is the relationship between Trump's investments in Charlotte and his concern for the city's well-being?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_T__12",
+                "cq": "Is \"Trump being good candidate\" consistent with what other experts in law and order say?",
+                "label": "Invalid"
+            },
+            {
+                "id": "TRUMP_125_1_T__17",
+                "cq": "If the Fraternal Order of Police's advice is not quoted, does it look like important information or qualifications may have been left out?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_3_S",
+                "cq": "How does Trump's endorsement by the Fraternal Order of Police and other police groups influence his views on law enforcement, and does this endorsement imply that he will prioritize their interests over those of other groups?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "TRUMP_125_1_T__18",
+                "cq": "If the police's advice is not quoted, does it look like important information or qualifications may have been left out?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "TRUMP_125_1_T__6",
+                "cq": "Is the Fraternal Order of Police a genuine expert in law and order?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "TRUMP_125_1_T__14",
+                "cq": "Are there any events other than you to walk down the street and get shot that would more reliably account for it's so dangerous?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_T__24",
+                "cq": "Is \"Trump being good candidate\" relevant to the domain of law and order?",
+                "label": "Invalid"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_0_S",
+                "cq": "What is the evidence for the claim that \"African-Americans, Hispanics are living in hell\" in inner cities, and is this a fair representation of the experiences of all individuals in these groups?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_T__20",
+                "cq": "Is there a proven relation between 'it's so dangerous' and 'you walk down the street, you get shot'?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_T__21",
+                "cq": "Is the police's pronouncement directly quoted? If not, is a reference to the original source given? Can it be checked?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "TRUMP_125_1_LLM_US2016_D_meta-llama_Meta-Llama-3-70B-Instruct_9_L",
+                "cq": "How does Trump's argument about the need for \"law and order\" account for the role of systemic racism and police brutality in perpetuating violence and mistrust in communities of color?",
+                "label": "Useful"
+            },
+            {
+                "id": "TRUMP_125_1_T__1",
+                "cq": "Are there special circumstances pertaining to in Chicago that undermine its generalisability to other cities where there have been thousands of shootings?",
+                "label": "Useful"
+            }
+        ]
+    },
+    "travellots_133_1": {
+        "intervention_id": "travellots_133_1",
+        "intervention": "travellots: \"There should be no discrimination in how a passenger is bumped or compensated just because they may have paid less for a ticket or used frequent flyer miles.\nAirline tickets are not lottery tickets.\nOne does not purchase a ticket hoping to reach a certain destination.\nSame as if one pays $4 for a cup of coffee or $1, the cup is supposed to have coffee in it.\nThe price does not dictate that \"maybe\" you will get the product or service.\nAlso, the airline decides what prices or miles are used to purchase a promise to get you from point A to point B.\nIf they can not afford to give  a ticket for that price, they should not sell it.\nWhen you reserve a ticket, the assumption is that you will be taken from point A to point B by the times given by the airline.\nA passenger does not purchase a ticket just to see if maybe they can get somewhere because they have nothing better to do.\"",
+        "dataset": "rrd",
+        "cqs": [
+            {
+                "id": "travellots_133_1_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_2_S",
+                "cq": "Is it fair to compare airline tickets to cups of coffee, given that airline travel involves complex logistical and safety considerations that may not be applicable to other consumer products?",
+                "label": "Useful"
+            },
+            {
+                "id": "travellots_133_1_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_3_S",
+                "cq": "How do airlines determine the prices of their tickets, and are these prices transparent to consumers?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "travellots_133_1_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_2_L",
+                "cq": "Is it fair to assume that the airline is making a promise to get the passenger from point A to point B, or are there circumstances in which the airline cannot fulfill this promise?",
+                "label": "Useful"
+            },
+            {
+                "id": "travellots_133_1_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_0_L",
+                "cq": "What are the critical questions that should be asked regarding the arguments in this paragraph?",
+                "label": "Invalid"
+            },
+            {
+                "id": "travellots_133_1_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_5_S",
+                "cq": "Are there any circumstances under which an airline might need to bump a passenger, such as in cases of overbooking or mechanical issues, and how should these situations be handled?",
+                "label": "Useful"
+            },
+            {
+                "id": "travellots_133_1_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_3_L",
+                "cq": "Is it reasonable to expect that the airline can always accommodate all passengers, or are there situations in which bumping passengers is necessary?",
+                "label": "Useful"
+            },
+            {
+                "id": "travellots_133_1_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_1_L",
+                "cq": "Is the analogy between airline tickets and coffee cups a good one, or are there important differences between the two?",
+                "label": "Useful"
+            },
+            {
+                "id": "travellots_133_1_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_8_S",
+                "cq": "How do airlines currently handle bumping and compensation, and are there any existing regulations or industry standards that govern these practices?",
+                "label": "Invalid"
+            },
+            {
+                "id": "travellots_133_1_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_7_S",
+                "cq": "Are there any differences between purchasing a ticket with cash versus frequent flyer miles that might affect the passenger's rights or expectations?",
+                "label": "Useful"
+            },
+            {
+                "id": "travellots_133_1_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_4_S",
+                "cq": "What happens when an airline sells a ticket at a price that is lower than its actual cost, and how does this impact the airline's ability to provide the promised service?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "travellots_133_1_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_6_S",
+                "cq": "How does the assumption that a passenger will be taken from point A to point B by the times given by the airline account for unexpected disruptions or changes in flight schedules?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "travellots_133_1_T__1",
+                "cq": "Are there other relevant goals that conflict with receiving a product you have paid for?",
+                "label": "Invalid"
+            },
+            {
+                "id": "travellots_133_1_T__2",
+                "cq": "Are there alternative actions to not discriminating passengers in how they are compensated just because they may have paid less for a ticket to achieve receiving a product you have paid for? If so, which is the most efficient action?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "travellots_133_1_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_0_S",
+                "cq": "What critical questions should be raised before accepting the arguments in this text?",
+                "label": "Invalid"
+            },
+            {
+                "id": "travellots_133_1_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_5_L",
+                "cq": "Is the argument assuming that the only factor that determines the price of an airline ticket is the airline's costs, or are there other factors at play?",
+                "label": "Useful"
+            },
+            {
+                "id": "travellots_133_1_T__0",
+                "cq": "Could not discriminating passengers in how they are compensated just because they may have paid less for a ticket have consequences that we should take into account? Is it practically possible?",
+                "label": "Useful"
+            },
+            {
+                "id": "travellots_133_1_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_1_S",
+                "cq": "Are there any exceptions to the principle of non-discrimination in bumping or compensation, such as in cases of emergency or special circumstances?",
+                "label": "Useful"
+            },
+            {
+                "id": "travellots_133_1_LLM_rrd_D_meta-llama_Meta-Llama-3-70B-Instruct_4_L",
+                "cq": "Are there any circumstances in which the airline might need to prioritize certain passengers over others?",
+                "label": "Useful"
+            }
+        ]
+    },
+    "Zewstain__641": {
+        "intervention_id": "Zewstain__641",
+        "intervention": "Zewstain: \"It seemed like that was most of her argument. Being a woman\nHow will you differ from Obama? Hillary: As a woman it's clear. Cooper: Any policy differences? Hillary: Hello, I'm a woman\"",
+        "dataset": "us2016reddit",
+        "cqs": [
+            {
+                "id": "Zewstain__641_LLM_us2016reddit_D_meta-llama_Meta-Llama-3-70B-Instruct_3_L",
+                "cq": "Is Cooper's question about policy differences being unfairly dismissed or ignored by Hillary?",
+                "label": "Useful"
+            },
+            {
+                "id": "Zewstain__641_LLM_us2016reddit_D_meta-llama_Meta-Llama-3-70B-Instruct_6_S",
+                "cq": "What is the author's purpose in presenting this argument? Is it to critique Hillary Clinton's campaign, to comment on the role of gender in politics, or to make a broader point about political discourse?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Zewstain__641_LLM_us2016reddit_D_meta-llama_Meta-Llama-3-70B-Instruct_5_S",
+                "cq": "How does this satirical representation reflect or distort the actual political discourse and issues at play in the election?",
+                "label": "Useful"
+            },
+            {
+                "id": "Zewstain__641_LLM_us2016reddit_D_meta-llama_Meta-Llama-3-70B-Instruct_4_L",
+                "cq": "What evidence does Hillary provide to support her claim that being a woman makes a difference in her approach or policies?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Zewstain__641_LLM_us2016reddit_D_meta-llama_Meta-Llama-3-70B-Instruct_5_L",
+                "cq": "Is Hillary's response a form of identity politics, where her gender is being used as a proxy for policy differences?",
+                "label": "Useful"
+            },
+            {
+                "id": "Zewstain__641_LLM_us2016reddit_D_meta-llama_Meta-Llama-3-70B-Instruct_6_L",
+                "cq": "How does Hillary's response address the concerns of voters who are looking for substantive policy differences between candidates?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Zewstain__641_T__2",
+                "cq": "Is Hilary Clinton actually a typical case of other woman that use their gender as an argument? How widely applicable is the generalisation?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Zewstain__641_T__1",
+                "cq": "Is it actually the case that Hilary Clinton uses being a woman as an argument? Is there evidence on this claim?",
+                "label": "Useful"
+            },
+            {
+                "id": "Zewstain__641_LLM_us2016reddit_D_meta-llama_Meta-Llama-3-70B-Instruct_2_S",
+                "cq": "Does the author have a bias against Hillary Clinton or women in politics that is influencing their presentation of her argument?",
+                "label": "Useful"
+            },
+            {
+                "id": "Zewstain__641_LLM_us2016reddit_D_meta-llama_Meta-Llama-3-70B-Instruct_4_S",
+                "cq": "Is gender being presented as the sole distinguishing factor between the two candidates, or was Hillary Clinton making a broader point about the importance of diversity and representation in politics?",
+                "label": "Useful"
+            },
+            {
+                "id": "Zewstain__641_LLM_us2016reddit_D_meta-llama_Meta-Llama-3-70B-Instruct_0_S",
+                "cq": "Is this a genuine quote or a fabricated representation of the conversation? If fabricated, what is the author's intention behind presenting this dialogue?",
+                "label": "Useful"
+            },
+            {
+                "id": "Zewstain__641_LLM_us2016reddit_D_meta-llama_Meta-Llama-3-70B-Instruct_3_S",
+                "cq": "Are there other significant policy differences between Hillary Clinton and Barack Obama that are being ignored or downplayed in this representation?",
+                "label": "Useful"
+            },
+            {
+                "id": "Zewstain__641_LLM_us2016reddit_D_meta-llama_Meta-Llama-3-70B-Instruct_1_S",
+                "cq": "Is this conversation taken out of context? Was Hillary Clinton's response part of a larger discussion or a more nuanced answer that was edited down to this snippet?",
+                "label": "Useful"
+            },
+            {
+                "id": "Zewstain__641_LLM_us2016reddit_D_meta-llama_Meta-Llama-3-70B-Instruct_2_L",
+                "cq": "Is Hillary relying too heavily on her gender as a distinguishing factor, rather than substantive policy differences?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Zewstain__641_LLM_us2016reddit_D_meta-llama_Meta-Llama-3-70B-Instruct_1_L",
+                "cq": "How does being a woman necessarily translate to differences in policy or approach?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Zewstain__641_LLM_us2016reddit_D_meta-llama_Meta-Llama-3-70B-Instruct_7_L",
+                "cq": "Is Hillary's response a sign of a lack of preparation or a lack of clear policy differences with Obama?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Zewstain__641_LLM_us2016reddit_D_meta-llama_Meta-Llama-3-70B-Instruct_0_L",
+                "cq": "What specific policy differences does Hillary have with Obama?",
+                "label": "Unhelpful"
+            },
+            {
+                "id": "Zewstain__641_T__0",
+                "cq": "Are there special circumstances pertaining to Hilary Clinton that undermine its generalisability to other woman who use their gender as an argument?",
+                "label": "Unhelpful"
+            }
+        ]
+    }
+}

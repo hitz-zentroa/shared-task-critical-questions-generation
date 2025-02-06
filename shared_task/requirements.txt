@@ -1,4 +1,5 @@
-numpy
-evaluate
-sentence_transformers
+numpy==2.0.2
+evaluate==0.4.3
+sentence_transformers==3.3.1
 bleurt @ https://github.com/google-research/bleurt/archive/b610120347ef22b494b6d69b4316e303f5932516.zip#egg=bleurt
+accelerate>=0.26.0

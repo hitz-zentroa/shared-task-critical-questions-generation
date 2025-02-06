@@ -5,7 +5,7 @@ from collections import Counter
 import sys
 import argparse
 import logging
-#from evaluate import load # if you don't want to use bleurt and you don't have it installed, you can comment this, gpu might be needed
+from evaluate import load # if you don't want to use bleurt and you don't have it installed, you can comment this, gpu might be needed
 
 logger = logging.getLogger(__name__)
 
@@ -15,7 +15,7 @@ def main():
     parser.add_argument('--metric', default='similarity', type=str, choices=['similarity', 'bleurt'])
     parser.add_argument('--input_path', type=str, default='test.json', help='Path of the test set.')
     parser.add_argument('--submission_path', type=str, default='output.json', help='Path where the generated questions have been saved.')
-    parser.add_argument('--evaluation_path', type=str, default='evals', help='Path where the results of the evaluation should be saved.')
+    #parser.add_argument('--evaluation_path', type=str, default='evals', help='Path where the results of the evaluation should be saved.')
     parser.add_argument('--threshold', type=float, default=0.6, help='Threshold to determine when the sentences are not similar. For bleurt, the threshold should probably be a negative number.') 
     args = parser.parse_args()
 
@@ -78,7 +78,7 @@ def main():
     print('Overall punctuation', sum(punctuations)/len(punctuations))
 
     # save the output
-    with open(args.evaluation_path+'_'+args.metric+'_'+str(args.threshold).replace('.', '')+'.json', 'w') as o:
+    with open(args.submission_path[:-4]+'_eval_'+args.metric+'_'+str(args.threshold).replace('.', '')+'.json', 'w') as o:
         json.dump(new, o, indent=4)
 
 if __name__ == "__main__":
