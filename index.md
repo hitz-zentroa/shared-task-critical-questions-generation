@@ -47,6 +47,7 @@ Each team will be allowed 3 submissions, which will all submitted through this F
 
 The submissions should match the following format:
 
+```json
 {
     "CLINTON_1_1": {
         "intervention_id": "CLINTON_1_1",
@@ -69,6 +70,7 @@ The submissions should match the following format:
     },
 ...
 }
+```
 
 You can find an example of a system and the generated output in [here](https://github.com/hitz-zentroa/shared-task-critical-questions-generation/tree/main/shared_task/trial_submission). 
 
