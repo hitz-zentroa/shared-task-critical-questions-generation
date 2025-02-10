@@ -422,3 +422,13 @@ td,
 th {
   padding: 0;
 }
+
+/* Para pantallas de escritorio (ancho mayor que 1024px) */ 
+@media (min-width: 1024px) { 
+  .logo { 
+  width: 20%; /* Ajusta a tu gusto */ } } 
+
+/* Para pantallas móviles (ancho hasta 767px, por ejemplo) */ 
+@media (max-width: 767px) { 
+  .logo { 
+    width: 80%; /* Ajusta a tu gusto */ } }  
