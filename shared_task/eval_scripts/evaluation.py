@@ -61,8 +61,6 @@ def main():
                     label = reference[instance]['cqs'][winner]['label']
                     if label == 'Useful':
                         punctuation += 1/3
-                    elif label == 'Unhelpful':
-                        punctuation += 0.1
                 else: 
                     label = 'not_able_to_evaluate'
                 predicted_labels.append(label)
