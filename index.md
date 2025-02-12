@@ -17,7 +17,7 @@ The task of Critical Questions Generation consists of generating useful critical
 
 In the dataset, the argumentative texts are interventions of real debates, which have been annotated with Argumentation Schemes and later associated to a set of critical questions. For every intervention, the speaker, the set of Argumentation Schemes, and the critical questions are provided. These questions have been annotated according to their usefulness for challenging the arguments in each text. The labels are either Useful, Unhelpful, or Invalid. The goal of the task is to generate critical questions that are Useful. 
 
-The participant will be asked to develop a system that gets one of the interventions as input, and outputs exactly 3 critical questions. The 3 critical questions should all be useful for challenging the arguments in the intervention. Each of this 3 critical questions will be evaluated separately and then the punctuation will be aggregated. 
+The participant will be asked to develop a system that gets one of the interventions as input, and outputs exactly 3 critical questions. The 3 critical questions should all be useful for challenging the arguments in the intervention. Each of this 3 critical questions will be evaluated separately and then the punctuation will be aggregated. You can either create a system that generates only Useful CQs, or you can decide to generate many and choose the top 3. 
 
 For more information on Critical Questions Generation, please read [Critical Questions Generation: Motivation and Challenges](https://aclanthology.org/2024.conll-1.9/).
 
@@ -25,7 +25,7 @@ For more information on Critical Questions Generation, please read [Critical Que
 
 Each output containing 3 questions will be given a score between 0 and 1, depending on the usefulness of the critical questions. 
 
-Useful critical questions (CQs) will be given 0.33 points, Unhelpful CQs will be given 0.1 points, and Invalid ones will have 0 points. The definitions of these categories are:
+Useful critical questions (CQs) will be given 0.33 points, Unhelpful and Invalid CQs will have 0 points. The definitions of these categories are:
 
 - **Useful (USE)**: The answer to this question can potentially challenge one of the arguments in the text.
 - **Unhelpful (UN)**: The question is valid, but it is unlikely to challenge any of the arguments in the text.
@@ -35,9 +35,9 @@ See two output examples and their punctuation:
 
 <img style="width:100%" src="assets/img/examples.png" alt="example" title="example" align="center">
 
-Each question will be evaluated in regards to the reference questions. That is, we will match the question with one of the references using semantic similarity and give the questions this label. 
+Each question will be evaluated in regards to the reference questions. That is, we will match the question with one of the references using semantic similarity and give the questions this label. You can find the evaluation guidelines used to label the reference CQs [here](https://github.com/hitz-zentroa/shared-task-critical-questions-generation/tree/main/shared_task/utils).
 
-You can find the evaluation script [here](https://github.com/hitz-zentroa/shared-task-critical-questions-generation/tree/main/shared_task/eval_scripts)
+You can find the evaluation script [here](https://github.com/hitz-zentroa/shared-task-critical-questions-generation/tree/main/shared_task/eval_scripts).
 
 #### Participant info
 
@@ -117,5 +117,5 @@ University of Côte d’Azur and member of the Inria-I3S research team Wimmics
 
 #### Do you have other questions?
 
-Please become a member of the [Gougle Group](https://groups.google.com) "critical-questions-generation-shared-task" to keep yourself updated. 
+Please become a member of the [Google Group](https://groups.google.com) "critical-questions-generation-shared-task" to keep yourself updated. 
 For specific questions, contact blanca.calvo@ehu.eus
