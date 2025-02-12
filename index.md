@@ -41,9 +41,9 @@ You can find the evaluation script [here](https://github.com/hitz-zentroa/shared
 
 #### Participant info
 
-In order to participate, please fill this Form (one time per team).
+In order to participate, please fill this [Form](https://forms.gle/RZ9yHGQGz2tfCxY99) (one time per team).
 
-Each team will be allowed 3 submissions, which will all submitted through this Form. 
+Each team will be allowed 3 submissions, which will all be submitted through this Form (will be available on the 28th of March). 
 
 The submissions should match the following format:
 
@@ -117,4 +117,5 @@ University of Côte d’Azur and member of the Inria-I3S research team Wimmics
 
 #### Do you have other questions?
 
-Slack channel. 
+Please become a member of the [Gougle Group](https://groups.google.com) "critical-questions-generation-shared-task" to keep yourself updated. 
+For specific questions, contact blanca.calvo@ehu.eus
