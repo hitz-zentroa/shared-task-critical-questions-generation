@@ -117,3 +117,5 @@ University of Côte d’Azur and member of the Inria-I3S research team Wimmics
 
 Please become a member of the [Google Group](https://groups.google.com) "critical-questions-generation-shared-task" (you'll have to look for it) to keep yourself updated. 
 For specific questions, contact [blanca.calvo@ehu.eus](mailto:blanca.calvo@ehu.eus)
+
+We are thankful to the following MCIN/AEI/10.13039/501100011033 projects: (i) DeepKnowledge (PID2021-127777OB-C21) and by FEDER, EU; (ii) Disargue (TED2021-130810B-C21) and European Union NextGenerationEU/PRTR; (iii) DeepMinor (CNS2023-144375) and European Union NextGenerationEU/PRTR.
