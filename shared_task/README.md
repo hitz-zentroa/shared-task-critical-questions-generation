@@ -1,4 +1,4 @@
-### Critical Questions Generation
+# Critical Questions Generation
 
 ## Setup
 
