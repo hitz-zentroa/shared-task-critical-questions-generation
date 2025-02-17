@@ -17,7 +17,7 @@ The task of Critical Questions Generation consists of generating useful critical
 
 In the dataset, the argumentative texts are interventions of real debates, which have been annotated with Argumentation Schemes and later associated to a set of critical questions. For every intervention, the speaker, the set of Argumentation Schemes, and the critical questions are provided. These questions have been annotated according to their usefulness for challenging the arguments in each text. The labels are either Useful, Unhelpful, or Invalid. The goal of the task is to generate critical questions that are Useful. 
 
-The participant will be asked to develop a system that gets one of the interventions as input, and outputs exactly 3 critical questions. The 3 critical questions should all be useful for challenging the arguments in the intervention. Each of this 3 critical questions will be evaluated separately and then the punctuation will be aggregated. You can either create a system that generates only Useful CQs, or you can decide to generate many and choose the top 3. 
+The participant will be asked to develop a system that gets one of the interventions as input, and outputs exactly 3 critical questions. The 3 critical questions should all be useful for challenging the arguments in the intervention. Each of this 3 critical questions will be evaluated separately and then the punctuation will be aggregated. You can either create a system that generates only Useful CQs, or you can decide to generate many CQs and choose the top 3. There is no restriction on which models can be used, but we encourage building systems that can run on a single GPU.
 
 For more information on Critical Questions Generation, please read [Critical Questions Generation: Motivation and Challenges](https://aclanthology.org/2024.conll-1.9/).
 
@@ -76,16 +76,14 @@ You can find an example of a system and the generated output in [here](https://g
 
 #### Data
 
-Below are links to access the data already released, as well as provisional expected release dates for future splits.
+Below are links to access the data already released, as well as provisional expected release dates for future splits. Sample and Validation sets will be release with the reference CQs. However, the reference questions for the test won't be released.
 Do note that release dates are subject to change.
 
 | Dataset split | Access |
 |---|---|
 | **Sample set** | <a href="https://github.com/hitz-zentroa/shared-task-critical-questions-generation/blob/main/shared_task/data_splits/sample.json" download>download</a> (v1) |
 | **Validation set** | To be published |
-| **Unlabeled train set** | To be published |
-| **Unlabeled test set** | To be published |
-| **Labeled test set** | To be published |
+| **Test set with no reference CQs** | To be published |
 
 <!-- 
 ### add as: <a href="slkdfjaldsf.zip" download>download</a> (v1)
