@@ -17,7 +17,7 @@ The task of Critical Questions Generation consists of generating useful critical
 
 In the dataset, the argumentative texts are interventions of real debates, which have been annotated with Argumentation Schemes and later associated to a set of critical questions. For every intervention, the speaker, the set of Argumentation Schemes, and the critical questions are provided. These questions have been annotated according to their usefulness for challenging the arguments in each text. The labels are either Useful, Unhelpful, or Invalid. The goal of the task is to generate critical questions that are Useful. 
 
-The participant will be asked to develop a system that gets one of the interventions as input, and outputs exactly 3 critical questions. The 3 critical questions should all be useful for challenging the arguments in the intervention. Each of this 3 critical questions will be evaluated separately and then the punctuation will be aggregated. You can either create a system that generates only Useful CQs, or you can decide to generate many CQs and choose the top 3. There is no restriction on which models can be used, but we encourage building systems that can run on a single GPU.
+The participant will be asked to develop a system that gets one of the interventions as input, and outputs exactly 3 critical questions. The 3 critical questions should all be useful for challenging the arguments in the intervention. Each of this 3 critical questions will be evaluated separately and then the punctuation will be aggregated. You can either create a system that generates only Useful CQs, or you can decide to generate many CQs and choose the top 3. 
 
 For more information on Critical Questions Generation, please read [Critical Questions Generation: Motivation and Challenges](https://aclanthology.org/2024.conll-1.9/).
 
@@ -115,5 +115,5 @@ University of Côte d’Azur and member of the Inria-I3S research team Wimmics
 
 #### Do you have other questions?
 
-Please become a member of the [Google Group](https://groups.google.com) "critical-questions-generation-shared-task" to keep yourself updated. 
+Please become a member of the [Google Group](https://groups.google.com) "critical-questions-generation-shared-task" (you'll have to look for it) to keep yourself updated. 
 For specific questions, contact [blanca.calvo@ehu.eus](mailto:blanca.calvo@ehu.eus)
