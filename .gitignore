@@ -1,3 +1,5 @@
 env/
 evals_*
 *.log
+shared_task/my_scripts/
+output_*
