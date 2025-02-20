@@ -81,8 +81,8 @@ Do note that release dates are subject to change.
 
 | Dataset split | Access |
 |---|---|
-| **Sample set** | <a href="https://github.com/hitz-zentroa/shared-task-critical-questions-generation/blob/main/shared_task/data_splits/sample.json" download>download</a> (v1) |
-| **Validation set** | To be published |
+| **Sample set** | <a href="https://github.com/hitz-zentroa/shared-task-critical-questions-generation/blob/main/shared_task/data_splits/sample.json" download>download</a> (v2) |
+| **Validation set** | <a href="https://github.com/hitz-zentroa/shared-task-critical-questions-generation/blob/main/shared_task/data_splits/validation.json" download>download</a> (v1) |
 | **Test set with no reference CQs** | To be published |
 
 <!-- 
