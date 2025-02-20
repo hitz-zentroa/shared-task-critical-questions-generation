@@ -30,5 +30,5 @@ University of Côte d’Azur and member of the Inria-I3S research team Wimmics
 
 #### Do you have other questions?
 
-Please become a member of the [Google Group](https://groups.google.com) "critical-questions-generation-shared-task" to keep yourself updated. 
+Please become a member of the [Google Group](https://groups.google.com/g/critical-questions-generation-shared-task) "critical-questions-generation-shared-task" to keep yourself updated. 
 For specific questions, contact [blanca.calvo@ehu.eus](mailto:blanca.calvo@ehu.eus)
