@@ -1,0 +1,97 @@
+{
+    "CLINTON_1_1": {
+        "intervention_id": "CLINTON_1_1",
+        "intervention": "CLINTON: \"The central question in this election is really what kind of country we want to be and what kind of future we 'll build together\nToday is my granddaughter 's second birthday\nI think about this a lot\nwe have to build an economy that works for everyone , not just those at the top\nwe need new jobs , good jobs , with rising incomes\nI want us to invest in you\nI want us to invest in your future\njobs in infrastructure , in advanced manufacturing , innovation and technology , clean , renewable energy , and small business\nmost of the new jobs will come from small business\nWe also have to make the economy fairer\nThat starts with raising the national minimum wage and also guarantee , finally , equal pay for women 's work\nI also want to see more companies do profit-sharing\"",
+        "dataset": "US2016",
+        "cqs": [
+            {
+                "id": 0,
+                "cq": "What does the author mean by \"build an economy that works for everyone, not just those at the top\"?                "
+            },
+            {
+                "id": 1,
+                "cq": "What is the author's definition of \"new jobs\" and \"good jobs\"?                "
+            },
+            {
+                "id": 2,
+                "cq": "How will the author's plan to \"make the economy fairer\" benefit the working class?                "
+            }
+        ]
+    },
+    "Javier_84": {
+        "intervention_id": "Javier_84",
+        "intervention": "Javier: \"I have no problem requiring the airlines to give notification of any \"known\" delays within 30 minutes of when they become aware of it.\nBUT, being a frequent traveler, I see all sorts of problems which are unavoidable and for which the airlines will be blamed by giving such notice with the intend that some flyers may be able to delay thier trip to the airport or even the departure gate.\nI know that many times the airlines can't also know exactly when a weather hold or a maintenance issue will be rectified and that the flight is then ready to go.\nMany time it can be surprisingly faster than expected.\nThe problem is that some flyers may then  wait before going to the airport,\nbut then find that the problem was rectified sooner than expected and the flight departed.\nOf course the flyer and the flyers rights organization will then crucify the airlines for such poor planning.\nFlyers need to grow up and quit pouting and blaming everthing on the airlines.\nThey can't have it both ways.\"",
+        "dataset": "rrd",
+        "cqs": [
+            {
+                "id": 0,
+                "cq": "What is the main argument being made by Javier?"
+            },
+            {
+                "id": 1,
+                "cq": "Are there any potential benefits to requiring airlines to give notification of delays?"
+            },
+            {
+                "id": 2,
+                "cq": "Is it fair to blame flyers for not being able to accurately predict when a flight will depart?"
+            }
+        ]
+    },
+    "TRUMP_125_1": {
+        "intervention_id": "TRUMP_125_1",
+        "intervention": "TRUMP: \"Secretary Clinton doesn't want to use a couple of words, and that's law and order\nIf we don't have it, we're not going to have a country\nwhen I look at what's going on in Charlotte, a city I love, a city where I have investments, when I look at what's going on throughout various parts of our country, whether it's\u2014I mean, I can just keep naming them all day long\nI just got today the, as you know, the endorsement of the Fraternal Order of Police, we just\u2014just came in\nWe have endorsements from, I think, almost every police group, very\u2014I mean, a large percentage of them in the United States\nWe have a situation where we have our inner cities, African- Americans, Hispanics are living in hell\nit's so dangerous\nYou walk down the street, you get shot\nIn Chicago, they've had thousands of shootings, thousands since January 1st\nI'm saying, where is this\nIs this a war-torn country\nWhat are we doing\nwe have to stop the violence\nIn a place like Chicago, where thousands of people have been killed, thousands over the last number of years\nalmost 4,000 have been killed since Barack Obama became president\"",
+        "dataset": "US2016",
+        "cqs": [
+            {
+                "id": 0,
+                "cq": "What is the definition of \"law and order\" that Trump is using?"
+            },
+            {
+                "id": 1,
+                "cq": "How does Trump's claim that \"we're not going to have a country\" if we don't have \"law and order\" relate to his argument about inner cities and violence?"
+            },
+            {
+                "id": 2,
+                "cq": "What is the significance of Trump's claim that \"almost 4,000 have been killed since Barack Obama became president\"?"
+            }
+        ]
+    },
+    "travellots_133_1": {
+        "intervention_id": "travellots_133_1",
+        "intervention": "travellots: \"There should be no discrimination in how a passenger is bumped or compensated just because they may have paid less for a ticket or used frequent flyer miles.\nAirline tickets are not lottery tickets.\nOne does not purchase a ticket hoping to reach a certain destination.\nSame as if one pays $4 for a cup of coffee or $1, the cup is supposed to have coffee in it.\nThe price does not dictate that \"maybe\" you will get the product or service.\nAlso, the airline decides what prices or miles are used to purchase a promise to get you from point A to point B.\nIf they can not afford to give  a ticket for that price, they should not sell it.\nWhen you reserve a ticket, the assumption is that you will be taken from point A to point B by the times given by the airline.\nA passenger does not purchase a ticket just to see if maybe they can get somewhere because they have nothing better to do.\"",
+        "dataset": "rrd",
+        "cqs": [
+            {
+                "id": 0,
+                "cq": "Is the assumption that a ticket is a guarantee of transportation accurate? "
+            },
+            {
+                "id": 1,
+                "cq": "Is the comparison of airline tickets to a cup of coffee fair? "
+            },
+            {
+                "id": 2,
+                "cq": "Is the airline's decision to sell a ticket at a certain price necessarily a promise to provide the service? "
+            }
+        ]
+    },
+    "Zewstain__641": {
+        "intervention_id": "Zewstain__641",
+        "intervention": "Zewstain: \"It seemed like that was most of her argument. Being a woman\nHow will you differ from Obama? Hillary: As a woman it's clear. Cooper: Any policy differences? Hillary: Hello, I'm a woman\"",
+        "dataset": "us2016reddit",
+        "cqs": [
+            {
+                "id": 0,
+                "cq": "What does being a woman have to do with policy differences?"
+            },
+            {
+                "id": 1,
+                "cq": "How does being a woman make a candidate more qualified?"
+            },
+            {
+                "id": 2,
+                "cq": "Is being a woman a sufficient reason to vote for a candidate?"
+            }
+        ]
+    }
+}

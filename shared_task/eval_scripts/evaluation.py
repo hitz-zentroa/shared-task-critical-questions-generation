@@ -15,7 +15,6 @@ def main():
     parser.add_argument('--metric', default='similarity', type=str, choices=['similarity', 'bleurt'])
     parser.add_argument('--input_path', type=str, default='test.json', help='Path of the test set.')
     parser.add_argument('--submission_path', type=str, default='output.json', help='Path where the generated questions have been saved.')
-    #parser.add_argument('--evaluation_path', type=str, default='evals', help='Path where the results of the evaluation should be saved.')
     parser.add_argument('--threshold', type=float, default=0.6, help='Threshold to determine when the sentences are not similar. For bleurt, the threshold should probably be a negative number.') 
     args = parser.parse_args()
 
@@ -44,6 +43,9 @@ def main():
         punctuation = 0
         reference_set = [ref['cq'] for ref in reference[instance]['cqs']]
         if new[instance]['cqs'] != 'Missing CQs':
+            cqs_check = [cq['cq'] for cq in new[instance]['cqs']]
+            if len(cqs_check) != len(set(cqs_check)): # check the generated CQs are not repeated
+                logger.warning('There are repeated CQs in '+instance)
             for i, line in enumerate(new[instance]['cqs']): # look into each question of the new cqs and find the most similar question in the references
                 winner = None
                 if args.metric == 'similarity':
@@ -66,7 +68,8 @@ def main():
                 predicted_labels.append(label)
                 new[instance]['cqs'][i]['label'] = label
         else:
-            predicted_labels.extend(['not_able_to_evaluate', 'not_able_to_evaluate', 'not_able_to_evaluate']) # this should disapear with a proper prompt that makes sure there are always 3 questions
+            # this should not happen if there are always 3 questions
+            predicted_labels.extend(['not_able_to_evaluate', 'not_able_to_evaluate', 'not_able_to_evaluate']) 
 
         punctuations.append(punctuation)
 

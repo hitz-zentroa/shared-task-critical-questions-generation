@@ -1,5 +1,4 @@
 env/
 evals_*
 *.log
-shared_task/my_scripts/
-output_*
+*.slurm
