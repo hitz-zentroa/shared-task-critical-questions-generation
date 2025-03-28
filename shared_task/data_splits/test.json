@@ -1,0 +1,374 @@
+{
+    "CLINTON_27": {
+        "intervention_id": "CLINTON_27",
+        "intervention": "CLINTON: \"actually , I have thought about this quite a bit\n...\nnot quite that long\nmy husband did a pretty good job in the 1990s\nI think a lot about what worked and how we can make it work again\n...\na balanced budget\nmillion new jobs\n...\nIncomes went up for everybody\n Manufacturing jobs went up also in the 1990s , if we 're actually going to look at the facts\nWhen I was in the Senate , I had a number of trade deals that came before me\nI held them all to the same test\nWill they create jobs in America ?\nWill they raise incomes in America ?\nare they good for our national security ?\"",
+        "dataset": "US2016",
+        "schemes": [
+            "Example",
+            "Example",
+            "Sign"
+        ],
+        "cqs": []
+    },
+    "CLINTON_277": {
+        "intervention_id": "CLINTON_277",
+        "intervention": "CLINTON: \"I support our democracy\nsometimes you win , sometimes you lose\nI certainly will support the outcome of this election\nDonald 's trying very hard to plant doubts about it\nI hope the people out there understandThis election 's really up to you\nIt 's not about us so much as it is about you and your families and the kind of country and future you want\nI sure hope you will get out and vote as though your future depended on it\nit does\"",
+        "dataset": "US2016",
+        "schemes": [
+            "PracticalReasoning",
+            "Consequences"
+        ],
+        "cqs": []
+    },
+    "CLINTON_47": {
+        "intervention_id": "CLINTON_47",
+        "intervention": "CLINTON: \"that is just not accurate\nI was against it once it was finally negotiated and the terms were laid out\"",
+        "dataset": "US2016",
+        "schemes": [
+            "Sign"
+        ],
+        "cqs": []
+    },
+    "Feedback-Commenter_183": {
+        "intervention_id": "Feedback-Commenter_183",
+        "intervention": "Feedback-Commenter: \"It is long past time that the airlines treat passengers, their primary source of income, as customers they cherish and not the nuisance we've become.\nIt has been said that new fees and penalties will only be passed to the passenger already struggling with higher fares and convenience fees of all kinds.\nPassengers need to remember that the airlines are still a competitive environment.\nIf you don't like the fare, go elsewhere or fine some other mode of transportation.\nSouthwest has been a shining example of what the legacy airlines should look forward to if they don't treat customers right.\nI've also found plenty of international airlines far more willing to treat me well on those coveted long haul flights\nand have completely refused to fly any American airlines on a long haul out of the country as a result.\nThey've lost my business\nand until they lose more, they may never learn.\nThey should be allowed to go out of business and let someone else without the legacy problems to have a go at it.\nAmerican consumers deserve better.\nUntil then, it's Air France or Lufthansa for me!\"",
+        "dataset": "rrd",
+        "schemes": [
+            "ERPracticalReasoning",
+            "ERExample",
+            "ERPracticalReasoning",
+            "ERPracticalReasoning"
+        ],
+        "cqs": []
+    },
+    "HOLT_122": {
+        "intervention_id": "HOLT_122",
+        "intervention": "HOLT: \"How do you heal the divide\nThe share of Americans who say race relations are bad in this country is the highest it's been in decades\nmuch of it amplified by shootings of African-Americans by police\nwe've seen recently in Charlotte and Tulsa\nRace has been a big issue in this campaign\none of you is going to have to bridge a very wide and bitter gap\"",
+        "dataset": "US2016",
+        "schemes": [
+            "CauseToEffect",
+            "Example"
+        ],
+        "cqs": []
+    },
+    "HOLT_159": {
+        "intervention_id": "HOLT_159",
+        "intervention": "HOLT: \"for five years , you perpetuated a false claim that the nation 's first black president was not a natural-born citizen\nYou questioned his legitimacy\nIn the last couple of weeks , you acknowledged what most Americans have accepted for yearsThe president was born in the United States\nCan you tell us what took you so long\"",
+        "dataset": "US2016",
+        "schemes": [
+            "CircumstantialAdHominem"
+        ],
+        "cqs": []
+    },
+    "AB_68": {
+        "intervention_id": "AB_68",
+        "intervention": "AB: \"Indeed.\n I think there should be a careful balancing act of freedom.\nLiberal societies have often known that the family can be a nexus for forms of unequal opportunity, but we don\u2019t abolish the family.\nFor the same reasons we should be very circumspect in the way we intervene in families,\n if you would like to consider the concept of non domination, freedom as non domination \u2013 the non interference on arbitrary grounds in people\u2019s important decisions \u2013 then we have to be careful that when we do intervene it\u2019s to increase total non domination.\nWhich would mean not interfering simply because people are mad, sad and bad, but because they are imposing domination on their neighbours.\"",
+        "dataset": "moral_maze_schemes",
+        "schemes": [
+            "Analogy"
+        ],
+        "cqs": []
+    },
+    "Antanagoge_218": {
+        "intervention_id": "Antanagoge_218",
+        "intervention": "Antanagoge: \"Prevalence information as reported by the National Institute of Allergy and Infectious Diseases\nhttp://www.niaid.nih.gov/topics/foodallergy/understanding/pages/quickfacts.aspx:\nFood allergy occurs in 6 to 8 percent of children 4 years of age or under, and in 3.7 percent of adults.\nAllergy to peanuts and tree nuts in the general population is, respectively, 0.6 percent and 0.4 percent, with the rate in children under age 18 (0.8 percent and 0.2 percent) slightly different from adults (0.6 percent and 0.5 percent respectively).\nThese two foods are the leading causes of fatal and near fatal foodallergic reactions.\nIn spite of attempts to avoid allergenic foods, accidental exposures are the major causes of allergic reactions to foods.\nOver a period of two years, approximately 50 percent of subjects in the United States with food allergy have an allergic reaction to accidental exposure.\nIn the United States, there are approximately 30,000 episodes of foodinduced anaphylaxis, associated with 100 to 200 deaths;\nmost deaths occur in adolescents and young adults.\nFood allergy is the most frequent single cause of emergency room visits for anaphylaxis and accounts for 34 to 52 percent of these visits.\"",
+        "dataset": "rrd",
+        "schemes": [
+            "ERExpertOpinion",
+            "ERExpertOpinion"
+        ],
+        "cqs": []
+    },
+    "CLINTON_105": {
+        "intervention_id": "CLINTON_105",
+        "intervention": "CLINTON: \"if he 's paid zero , that means zero for troops , zero for vets , zero for schools or health\nprobably he 's not all that enthusiastic about having the rest of our country see what the real reasons are\n...\nthe financial disclosure statements , they do n't give you the tax rate\nThey do n't give you all the details that tax returns would\nthis is something that the American people deserve to see\nI have no reason to believe that he 's ever going to release his tax returns\nthere 's something he 's hiding\nwe 'll guess\nWe 'll keep guessing at what it might be that he 's hiding\nwere he ever to get near the White House , what would be those conflicts ?\nWho does he owe money to ?\nhe owes you the answers to that\nhe should provide them\"",
+        "dataset": "US2016",
+        "schemes": [
+            "VerbalClassification"
+        ],
+        "cqs": []
+    },
+    "CLINTON_116": {
+        "intervention_id": "CLINTON_116",
+        "intervention": "CLINTON: \"maybe because you have n't paid any federal income tax for a lot of years\nIt would be squandered , too , believe me\nif your main claim to be president of the United States is your business , then I think we should talk about that\nI have met a lot of the people who were stiffed by you and your businesses\nI 've met dishwashers , painters , architects , glass installers , marble installers , drapery installers , like my dad was , who you refused to pay when they finished the work that you asked them to do\nWe have an architect in the audience who designed one of your clubhouses at one of your golf courses\nIt's a beautiful facility\nIt immediately was put to use\nyou wouldn't pay what the man needed to be paid, what he was charging you to do\"",
+        "dataset": "US2016",
+        "schemes": [
+            "PopularOpinion",
+            "PopularOpinion"
+        ],
+        "cqs": []
+    },
+    "CLINTON_118": {
+        "intervention_id": "CLINTON_118",
+        "intervention": "CLINTON: \"Do the thousands of people that you have stiffed over the course of your business not deserve some kind of apology from someone who has taken their labor, taken the goods that they produced, and then refused to pay them?\nI can only say that I'm certainly relieved that my late father never did business with you\nHe provided a good middle-class life for us\nthe people he worked for, he expected the bargain to be kept on both sides\nwhen we talk about your business, you've taken business bankruptcy six times\nThere are a lot of great businesspeople that have never taken bankruptcy once\nYou call yourself the King of Debt\nYou talk about leverage\nYou even at one time suggested that you would try to negotiate down the national debt of the United States\"",
+        "dataset": "US2016",
+        "schemes": [
+            "Sign",
+            "Sign",
+            "Values",
+            "Example"
+        ],
+        "cqs": []
+    },
+    "CLINTON_172": {
+        "intervention_id": "CLINTON_172",
+        "intervention": "CLINTON: \"just listen to what you heard\nclearly , as Donald just admitted , he knew he was going to stand on this debate stage , and Lester Holt was going to be asking us questions\nhe tried to put the whole racist birther lie to bed\nit ca n't be dismissed that easily\nHe has really started his political activity based on this racist lie that our first black president was not an American citizen\nThere was absolutely no evidence for it\nhe persisted\nhe persisted year after year\nsome of his supporters , people that he was trying to bring into his fold , apparently believed it or wanted to believe it\nremember , Donald started his career back in 1973 being sued by the Justice Department for racial discrimination because he would not rent apartments in one of his developments to African-Americans , and he made sure that the people who worked for him understood that was the policy\nHe actually was sued twice by the Justice Department\nhe has a long record of engaging in racist behavior\nthe birther lie was a very hurtful one\nBarack Obama is a man of great dignity\nI could tell how much it bothered him and annoyed him that this was being touted and used against him\nBarack Obama went high , despite Donald Trump 's best efforts to bring him down\"",
+        "dataset": "US2016",
+        "schemes": [
+            "GenericAdHominem",
+            "CauseToEffect",
+            "GenericAdHominem",
+            "GenericAdHominem",
+            "GenericAdHominem",
+            "GenericAdHominem",
+            "GenericAdHominem",
+            "PopularPractice",
+            "GenericAdHominem",
+            "GenericAdHominem",
+            "GenericAdHominem"
+        ],
+        "cqs": []
+    },
+    "MT_53": {
+        "intervention_id": "MT_53",
+        "intervention": "MT: \"And I think that also though goes back to the state of the economy\nBecause the fact is, if living standards aren\u2019t going up what you do is you let people borrow money\nbecause it keeps them happy\nBecause the fundamentals of the economy aren\u2019t generating what you want. But going back to a personal level\nI do believe that as a society we had created a set of social norms and values which protected us from our innate short-termism\nHuman beings are not very good at the long-term\nAnd I think the dismantling of those social norms, and those laws, have made us vulnerable\nAnd I think this is a classic case for moral paternalism\"",
+        "dataset": "moral_maze_schemes",
+        "schemes": [
+            "CauseToEffect",
+            "CauseToEffect",
+            "CauseToEffect",
+            "CauseToEffect",
+            "CauseToEffect"
+        ],
+        "cqs": []
+    },
+    "NMmom_209": {
+        "intervention_id": "NMmom_209",
+        "intervention": "NMmom: \"I wish it were imagined\nI have a 9year old with a peanut allergy\nand she has had a reaction on a plane due to peanuts being served.\nThe doctor above understands that the peanut allergy is different from most ofter food allergies because in it life threatening.\nI don't understand how not being able to eat peanuts for a few hours out of your life is worth putting another life at risk.\"",
+        "dataset": "rrd",
+        "schemes": [
+            "ERExample",
+            "ERExample"
+        ],
+        "cqs": []
+    },
+    "REBacon_165": {
+        "intervention_id": "REBacon_165",
+        "intervention": "REBacon: \"That's ridiculous.\nI agree that there needs to be some compensation for those who use miles.\nAlso, airlines' refusal to put people on other airlines' flights has long annoyed me.\"\n < this message is answering to > \nVec: \"The rules definitely need to be spelled out as specifically as possible\nand should apply to all airlines\nI don't trust the airlines to develop and enforce their own policy.\nPrevious experience with getting bumped off a flight (I was using miles) and the airline refused to put me on another carrier's flight\ninstead I had a flight that was six hours later with absolutely no compensation.\nBasically the customer servie rep's attitude was \"It's not my problem and you're using miles so we owe you nothing.\"\"",
+        "dataset": "rrd",
+        "schemes": [
+            "ERPracticalReasoning"
+        ],
+        "cqs": []
+    },
+    "howie_230": {
+        "intervention_id": "howie_230",
+        "intervention": "howie: \"So true!\nI see this all the time.\nThey try to ban peanuts at school because some over anxious mom saw something on TV about food allergies and that became her kids affliction du jour.\nPeanuts are harmless to 99.99999% of humans.\nThe 3 living humans who are actually in danger just need to stay in a bubble and leave the rest of us in peace.\"",
+        "dataset": "rrd",
+        "schemes": [
+            "ERExample"
+        ],
+        "cqs": []
+    },
+    "jccjoin_151": {
+        "intervention_id": "jccjoin_151",
+        "intervention": "jccjoin: \"There is a nonprofit organization called the food allergy network\nfoodallergy.org.\nThis site will give you some insight into the peanut allergy issue.\nMy son now ten years old has a very severe peanut allergy.\nSome of the things most kids take for granted are not available to him\ndue to the allergy.\nHe cannot go to a professional baseball game for one.\nWe also have to plan our vacations the locations that peanut free airlines to.\nThe common misconception is \"just don't eat peanuts!\"\nIt would be nice if it were that simple.\nThe confined space and recycling of the air in a plane is a peanut allergy sufferers nightmare.\nWhen people eat peanuts or open up bags of preanuts some of the allergens are released into the air.\nTherefore the allergic person can be affected without physically eating the peanuts.\nThe air becomes toxic to them.\nFor my son this is a not just discomfort it could kill him.\"",
+        "dataset": "rrd",
+        "schemes": [
+            "ERExpertOpinion",
+            "ERExample",
+            "ERExpertOpinion",
+            "ERExample"
+        ],
+        "cqs": []
+    },
+    "martinezcs_20": {
+        "intervention_id": "martinezcs_20",
+        "intervention": "martinezcs: \"The buffer zone solution would not give me any confidence.\nThe time that my daughter had a reaction it was right after visiting the restroom.\nIn a buffer zone situation the person could still be exposed to peanut residue in other parts of the plane (e.g. the restroom door handle, sink faucet, etc).\nNow we carry wipes and wipe down every surface in our seating area and in the restroom when we fly an airline like southwest that serves peanuts on previous flights even if they aren't serving it on ours.\"",
+        "dataset": "rrd",
+        "schemes": [
+            "Example",
+            "Example"
+        ],
+        "cqs": []
+    },
+    "pnorton_210": {
+        "intervention_id": "pnorton_210",
+        "intervention": "pnorton: \"You have no idea what you are talking about.\nThey are not mostly imagined\nand it is a serious issue.\nIf you can't survive hours or days without peanuts then that is your problem\nand if you think it is that much of an inconvenience then maybe you should see somebody to deal with your own lack of discipline.\"\n < this message is answering to > \nhowie: \"Has ANYONE ever actually died on a plane from eating peanuts?\nDidn't think so.\nMost food allergies are imagined.\nYou clearly have a financial interest in promoting the myth of food allergy.\nIf someone is actually that allergic, they should stay home and not inconvenience the rest of us.\"",
+        "dataset": "rrd",
+        "schemes": [
+            "ERAdHominem",
+            "ERAdHominem"
+        ],
+        "cqs": []
+    },
+    "radamchak_175": {
+        "intervention_id": "radamchak_175",
+        "intervention": "radamchak: \"I have a similar problem with errors on your website with MacOS Safari before it is published.\nOnce the plane has left the gate as long as it's officially waiting for takeoff, then it appears to me passengers should not be allowed to leave the gate.\nHowever, I remember times while traveling thru Denver, United would leave the gate, then taxi to the \"penalty box\" waiting for clearances and take off instructions.\nAirlines should not be allowed to leave the gate unless there is a expected takeoff time issued by FAA ATC Clearance Delivery and Ground Control.\nIf the expected departure time issued by FAA ATC is over 3 hours then the aircraft should not be allowed to leave the gate.\nHowever, if an airline has left the gate, and the departure time is extended while waiting for takeoff,  where the total time is greater than three hours on the ground then the airport and airline should get buses out to the aircraft for any passengers that want to deplane.\nAs you can see there are mitigating circumstances affecting the airline and aircraft and there are a few organizations involved in the situation..\nthese organizations include the airport authority, the FAA ATC ground control and clearance delivery control, and airline pilots.\"",
+        "dataset": "rrd",
+        "schemes": [
+            "ERPracticalReasoning",
+            "ERExample",
+            "ERPracticalReasoning"
+        ],
+        "cqs": []
+    },
+    "stone_170": {
+        "intervention_id": "stone_170",
+        "intervention": "stone: \"The only additions to an airfare should be government mandated taxes and fees.\n\"Surcharges\" should not be allowed in any case.\nFuel, for example, is part of the airline's basic cost.\nIt should not be an add on to a fare, but part of it.\nIf an airline wants to charge more on a certain day, the base fare should include that charge.\nIt should never be added on.\nAnd the proposed rule that the total fare be shown is the only appropriate way to avoid deceptive practices.\nIf an airline wishes to inform a customer about the cost of taxes, is should be allowed to list the base fare before taxes in no greater than 1/2 the typeface of the total fare along with the total fare.\"",
+        "dataset": "rrd",
+        "schemes": [
+            "ERPracticalReasoning"
+        ],
+        "cqs": []
+    },
+    "wkemp_142": {
+        "intervention_id": "wkemp_142",
+        "intervention": "wkemp: \"Rather than set explicit dollar amounts for compensation, just make it equivalent to or twice the cost of the ticket in question.\nThat way, the compensation automatically tracks changes in air fares over time.\nIt's also worth noting that when I buy bus, train, or ferry tickets I pay up front and own the ticket\n(i. e., have entered into a contract with the carrier).\nIf I miss the train, I lose.\nWhy are airline tickets different?\nWhy are airlines allowed to oversell flights as a matter of course?\"",
+        "dataset": "rrd",
+        "schemes": [
+            "ERPracticalReasoning"
+        ],
+        "cqs": []
+    },
+    "TRUMP_153": {
+        "intervention_id": "TRUMP_153",
+        "intervention": "TRUMP: \"I will\nthe African-American community has been let down by our politicians\nThey talk good around election time, like right now\nafter the election, they said, see ya later, I'll see you in four years\nAfrican-American community\u2014because\u2014look, the community within the inner cities has been so badly treated\nThey've been abused and used in order to get votes by Democrat politicians\nthat's what it is\nThey've controlled these communities for up to 100 years\n...\nyou look at the inner cities\n just left Detroit, and I just left Philadelphia, and I just\u2014you know, you've seen me, I've been all over the place\nYou decided to stay home, and that's OK\nI've been all over\nI've met some of the greatest people I'll ever meet within these communities\nthey are very, very upset with what their politicians have told them and what their politicians have done\"",
+        "dataset": "US2016",
+        "schemes": [
+            "Sign",
+            "CircumstantialAdHominem",
+            "Sign",
+            "Sign",
+            "Sign",
+            "PositionToKnow"
+        ],
+        "cqs": []
+    },
+    "TRUMP_160": {
+        "intervention_id": "TRUMP_160",
+        "intervention": "TRUMP: \"I 'll tell you very\u2014well , just very simple to say\nSidney Blumenthal works for the campaign and close\u2014very close friend of Secretary Clinton\nher campaign manager , Patti Doyle , went to\u2014during the campaign , her campaign against President Obama , fought very hard\nyou can go look it up , and you can check it out\nif you look at CNN this past week , Patti Solis Doyle was on Wolf Blitzer saying that this happened\nBlumenthal sent McClatchy , highly respected reporter at McClatchy , to Kenya to find out about it\nThey were pressing it very hard\nShe failed to get the birth certificate\nWhen I got involved , I did n't fail\nI got him to give the birth certificate\nI 'm satisfied with it\nI 'll tell you why I 'm satisfied with it\n...\nI want to get on to defeating ISIS\nI want to get on to creating jobs\nI want to get on to having a strong border\nI want to get on to things that are very important to me and that are very important to the country\"",
+        "dataset": "US2016",
+        "schemes": [
+            "CauseToEffect",
+            "PositionToKnow",
+            "Example",
+            "Example",
+            "Example",
+            "Values"
+        ],
+        "cqs": []
+    },
+    "TRUMP_185": {
+        "intervention_id": "TRUMP_185",
+        "intervention": "TRUMP: \" I don't\nmaybe it was\nit could be Russia\nit could also be China\nIt could also be lots of other people\nIt also could be somebody sitting on their bed that weighs 400 pounds , OK ?\nYou do n't know who broke in to DNC\nwhat did we learn with DNC ?\nWe learned that Bernie Sanders was taken advantage of by your people\nby Debbie Wasserman Schultz\nLook what happened to her\nBernie Sanders was taken advantage of\nThat 's what we learned\nwhether that was Russia , whether that was China , whether it was another country , we do n't know\nhe truth is , under President Obama we 've lost control of things that we used to have control over\nWe came in with the Internet\nwe came up with the Internet\nSecretary Clinton and myself would agree very much , when you look at what ISIS is doing with the Internet\nthey 're beating us at our own game\nISIS\nwe have to get very , very tough on cyber and cyber warfare\nit is a huge problem\nI have a son\nHe 's 10 years old\nHe has computers\nHe is so good with these computers\nit 's unbelievable\nThe security aspect of cyber is very , very tough\nmaybe it 's hardly doable\nwe are not doing the job we should be doing\nthat 's true throughout our whole governmental society\nWe have so many things that we have to do better , Lester\ncertainly cyber is one of them\"",
+        "dataset": "US2016",
+        "schemes": [
+            "GenericAdHominem",
+            "Example",
+            "VerbalClassification",
+            "Example",
+            "Sign",
+            "Example"
+        ],
+        "cqs": []
+    },
+    "TRUMP_208": {
+        "intervention_id": "TRUMP_208",
+        "intervention": "TRUMP: \"I did not support the war in Iraq\n...\nThat is a mainstream media nonsense put out by her\nthe best person in her campaign is mainstream media\"",
+        "dataset": "US2016",
+        "schemes": [
+            "Bias"
+        ],
+        "cqs": []
+    },
+    "TRUMP_214": {
+        "intervention_id": "TRUMP_214",
+        "intervention": "TRUMP: \"The record does not show that\n...\nThe record shows that I 'm right\nWhen I did an interview with Howard Stern , very lightly , first time anyone 's asked me that , I said , very lightly , I do n't know , maybe , who knows\nEssentially\nI then did an interview with Neil Cavuto\nWe talked about the economy is more important\nI then spoke to Sean Hannity , which everybody refuses to call Sean Hannity\nI had numerous conversations with Sean Hannity at Fox\nSean Hannity said\u2014and he called me the other day\u2014and I spoke to him about it\u2014he said you were totally against the war\nhe was for the war\"",
+        "dataset": "US2016",
+        "schemes": [
+            "Example",
+            "Example",
+            "Example",
+            "VerbalClassification"
+        ],
+        "cqs": []
+    },
+    "TRUMP_218": {
+        "intervention_id": "TRUMP_218",
+        "intervention": "TRUMP: \"And when he\u2014excuse me\nthat was before the war started\nSean Hannity said very strongly to me and other people\u2014he 's willing to say it , but nobody wants to call him . I was against the war\nHe said , you used to have fights with me\nSean was in favor of the war\nI understand that side , also , not very much\nwe should have never been there\nnobody called Sean Hannity\nthen they did an article in a major magazine , shortly after the war started\nin '04\nthey did an article which had me totally against the war in Iraq\none of your compatriots said , you know , whether it was before or right after , Trump was definitely\nif you read this article , there 's no doubt\nI 'll ask the press\u2014if somebody would call up Sean Hannity , this was before the war started\nHe and I used to have arguments about the war\nI said , it 's a terrible and a stupid thing\nit 's a terrible and a stupid thing\nIt 's going to destabilize the Middle East\nthat 's exactly what it 's done\nIt 's been a disaster\nNo , no\"",
+        "dataset": "US2016",
+        "schemes": [
+            "Consequences",
+            "PositionToKnow"
+        ],
+        "cqs": []
+    },
+    "CLINTON_136": {
+        "intervention_id": "CLINTON_136",
+        "intervention": "CLINTON: \"implicit bias is a problem for everyone, not just police\ntoo many of us in our great country jump to conclusions about each other\nwe need all of us to be asking hard questions about, you know, why am I feeling this way\nwhen it comes to policing, since it can have literally fatal consequences\nin my first budget, we would put money into that budget to help us deal with implicit bias by retraining a lot of our police officers\nmet with a group of very distinguished, experienced police chiefs a few weeks ago\nThey admit it's an issue\nThey've got a lot of concerns\nMental health is one of the biggest concerns\nnow police are having to handle a lot of really difficult mental health problems on the street\nThey want support, they want more training, they want more assistance\nthe federal government could be in a position where we would offer and provide that\"",
+        "dataset": "US2016",
+        "schemes": [
+            "Sign",
+            "PositionToKnow",
+            "PositionToKnow",
+            "Bias"
+        ],
+        "cqs": []
+    },
+    "TRUMP_15": {
+        "intervention_id": "TRUMP_15",
+        "intervention": "TRUMP: \"the first thing you do is do n't let the jobs leave\nThe companies are leaving\nI could name\nthere are thousands of them\nThey 're leaving\nthey 're leaving in bigger numbers than ever\ngood luck\nWe wish you a lot of luck\nif you think you 're going to make your air conditioners or your cars or your cookies or whatever you make and bring them into our country without a tax , you 're wrong\nonce you say you 're going to have to tax them coming in\nthe special interests want those companies to leave\n in many cases , they own the companies\nour politicians never do this\nthey have special interests\nwhat I 'm saying is , we can stop them from leaving\nthat 's a big , big factor\"",
+        "dataset": "US2016",
+        "schemes": [
+            "Bias",
+            "Bias",
+            "Bias",
+            "FearAppeal",
+            "VerbalClassification"
+        ],
+        "cqs": []
+    },
+    "ND_19": {
+        "intervention_id": "ND_19",
+        "intervention": "ND: \"But how can you say that\nwhen the lenders are actually the banks, that are at the pinnacle of our society?\nAnd indeed the debts that are owed now, by us as a country, even if not individually, are a result of the fact that the banks have got off Scot free\nThere is absolute impunity for lenders at that level.\n...\nBut how can you say that?\nthe lenders are actually the banks, that are at the pinnacle of our society\nThere is absolute impunity for lenders at that level\"",
+        "dataset": "moral_maze_schemes",
+        "schemes": [
+            "CircumstantialAdHominem"
+        ],
+        "cqs": []
+    },
+    "CF_58": {
+        "intervention_id": "CF_58",
+        "intervention": "CF: \"But I think you can be in a situation where you say, \u201cWe will let you write off your debts, without incurring moral hazard. But you have to have-\u201d\n...\nBecause bankruptcy used to be shameful. And I do think there is something in it\nOtherwise you\u2019ve got slavery.\nI mean, if you get into debt, and you can never get out of it, that\u2019s slavery\nYou\u2019ve got to be able to start again.\n But you start again with some very strict rules and a stigma.\nAnd being bankrupt wasn\u2019t something \u2013 now, kind of, it\u2019s almost as though people won\u2019t take account of the fact they\u2019ve got absolutely no money, and they're in debt, and they don\u2019t want to pay it\nWhereas I do feel a country can even say, \u201cWe\u2019re going to go bankrupt. It\u2019s humiliating. We\u2019ll do it. We\u2019ll start again. We\u2019ll grow\nOne of my concerns is this demoralisation question\nIn this debate it seems to me, and actually the way Mr Cameron posed it, was you got a choice of being mollycoddled at home by your mum and dad, or you demand that you\u2019re sustained by the State.\nDon\u2019t you think that we need to encourage young people to see a third way, an alternative to that?\"",
+        "dataset": "moral_maze_schemes",
+        "schemes": [
+            "NegativeConsequences",
+            "NegativeConsequences"
+        ],
+        "cqs": []
+    },
+    "JL_69": {
+        "intervention_id": "JL_69",
+        "intervention": "JL: \"So, if I want a washing machine, I have to go to the launderette every week at the moment and spend several pounds in the launderette.\nBut, if I buy the washing machine, on credit, I can have my own washing machine, for pretty much the same amount of money that I'm spending in the launderette\nThat seems to me to be beneficial\nIt raises living standards\nAnd this idea of usury has been \u2013 well, it\u2019s been fiddled, hasn\u2019t it, over the years?\nBecause why did we have money lenders from one religious persuasion unable to lend to their own persuasion, but happily would lend to those of another religious persuasion?\n I don\u2019t buy that at all\nI think that credit raises living standards\nIt\u2019s beneficial to people\nbecause it allows them to fund today\u2019s purchases out of their future income\"",
+        "dataset": "moral_maze_schemes",
+        "schemes": [
+            "PositiveConsequences",
+            "PositiveConsequences",
+            "PositiveConsequences",
+            "PositiveConsequences",
+            "PositiveConsequences",
+            "PositiveConsequences"
+        ],
+        "cqs": []
+    },
+    "MP_24": {
+        "intervention_id": "MP_24",
+        "intervention": "MP: \"But why are borrowers doing badly?\nI mean on the one hand interest rates are being kept really low, in order that borrowers won\u2019t bear the consequences of their foolish borrowing\nAnd then again, not many people have been driven out of the houses on which they can\u2019t afford to maintain their payments\nthe banks are so terrified that if they crystallise the debts their balance sheets will be insupportable\nactually, people have run up lots of debt, are paying very low rates of interest, and they\u2019re able to continue to live in houses that they can\u2019t afford to pay for\"",
+        "dataset": "moral_maze_schemes",
+        "schemes": [
+            "NegativeConsequences"
+        ],
+        "cqs": []
+    }
+}
