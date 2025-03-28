@@ -43,7 +43,7 @@ You can find the evaluation script [here](https://github.com/hitz-zentroa/shared
 
 In order to participate, please fill this [Form](https://forms.gle/RZ9yHGQGz2tfCxY99) (one time per team).
 
-Each team will be allowed 3 submissions, which will all be submitted through this Form (will be available on the 28th of March). 
+Each team will be allowed 3 submissions, which will all be submitted through this [Form](https://docs.google.com/forms/d/e/1FAIpQLSeCLg7lceM_Juw2eRporegAiZp-_mFPTogH8MZXMLY9JZ6ViA/viewform?usp=header). 
 
 The submissions should match the following format:
 
@@ -83,7 +83,7 @@ Do note that release dates are subject to change.
 |---|---|
 | **Sample set** | <a href="https://github.com/hitz-zentroa/shared-task-critical-questions-generation/blob/main/shared_task/data_splits/sample.json" download>download</a> (v2) |
 | **Validation set** | <a href="https://github.com/hitz-zentroa/shared-task-critical-questions-generation/blob/main/shared_task/data_splits/validation.json" download>download</a> (v1) |
-| **Test set with no reference CQs** | To be published |
+| **Test set with no reference CQs** | <a href="https://github.com/hitz-zentroa/shared-task-critical-questions-generation/blob/main/shared_task/data_splits/test.json" download>download</a> (v1) |
 
 <!-- 
 ### add as: <a href="slkdfjaldsf.zip" download>download</a> (v1)
@@ -96,6 +96,7 @@ This information is subject to change.
 - Validation data ready: 21st February
 - Evaluation start: 28th March
 - Evaluation end: 4th April
+- Evaluation results: 11th April
 - Paper submission due: 25th April
 - Notification to authors: 2nd May
 - Camera ready due: 9th May
@@ -107,6 +108,10 @@ This information is subject to change.
 - [Blanca Calvo Figueras](https://github.com/BlancaCalvo), 
 HiTZ Basque Center for Language Technology - Ixa, University of the Basque Country UPV/EHU, Spain
 - [Rodrigo Agerri](https://ragerri.github.io/), 
+HiTZ Basque Center for Language Technology - Ixa, University of the Basque Country UPV/EHU, Spain
+- [Maite Heredia](https://www.linkedin.com/in/maite-heredia-arribas-88bbbb220?originalSubdomain=es), 
+HiTZ Basque Center for Language Technology - Ixa, University of the Basque Country UPV/EHU, Spain
+- [Jaione Bengoetxea](https://www.linkedin.com/in/jaione-bengoetxea-azurmendi-5b931a1a3/?originalSubdomain=es), 
 HiTZ Basque Center for Language Technology - Ixa, University of the Basque Country UPV/EHU, Spain
 - [Elena Cabrio](https://www-sop.inria.fr/members/Elena.Cabrio/), 
 University of Côte d’Azur and member of the Inria-I3S research team Wimmics
