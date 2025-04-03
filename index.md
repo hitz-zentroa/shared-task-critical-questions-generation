@@ -89,6 +89,15 @@ Do note that release dates are subject to change.
 ### add as: <a href="slkdfjaldsf.zip" download>download</a> (v1)
 -->
 
+### Paper Submission 
+
+All evaluated submissions should commit to sending a paper describing their system. You can choose two paper options:
+
+- **Non-Archival paper**: This has to be a 2-page paper, describing your system, with unlimited pages for appendices and bibliography. These won't be published in the workshop proceedings, but your system will be mentioned in the Overview Paper of the shared task.
+- **Archival paper**: This is a 4-page paper, describing your system, with unlimited pages for appendices and bibliography. These will be published in the workshop proceedings, and you will present your system at the workshop (either as poster or oral session). Please take into account that, in order to present your work, at least one team member will have to register to the workshop, either in person or online (according to the ACL policy).
+
+In both cases, all papers must use the official ACL style [templates](https://github.com/acl-org/acl-style-files), which are available as Latex or Word. We strongly advise you to use the [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr). 
+
 #### Important dates
 
 This information is subject to change.
